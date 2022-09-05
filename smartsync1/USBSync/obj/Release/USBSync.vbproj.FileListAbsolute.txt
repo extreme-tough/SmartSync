@@ -1,0 +1,31 @@
+D:\RaC\Proyectos\USBSync\USBSync\USBSync\obj\Release\ResolveAssemblyReference.cache
+D:\RaC\Proyectos\USBSync\USBSync\USBSync\obj\Release\USBSync.vbproj.GenerateResource.Cache
+C:\Users\Panda\Desktop\Projects\Personal Projects\usb sync\USBSync\USBSync\obj\Release\USBSync.exe
+C:\Users\Panda\Desktop\Projects\Personal Projects\usb sync\USBSync\USBSync\obj\Release\USBSync.xml
+C:\Users\Panda\Desktop\Projects\Personal Projects\usb sync\USBSync\USBSync\obj\Release\USBSync.pdb
+C:\Documents and Settings\Orzuelo\Escritorio\USBSync\USBSync\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Orzuelo\Escritorio\USBSync\USBSync\obj\Release\USBSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Orzuelo\Escritorio\USBSync\USBSync\bin\Release\SmartSync.exe
+C:\Documents and Settings\Orzuelo\Escritorio\USBSync\USBSync\bin\Release\SmartSync.pdb
+C:\Documents and Settings\Orzuelo\Escritorio\USBSync\USBSync\bin\Release\SmartSync.xml
+C:\Documents and Settings\Orzuelo\Escritorio\USBSync\USBSync\obj\Release\SmartSync.Resources.resources
+C:\Documents and Settings\Orzuelo\Escritorio\USBSync\USBSync\obj\Release\SmartSync.SelectDrive.resources
+C:\Documents and Settings\Orzuelo\Escritorio\USBSync\USBSync\obj\Release\SmartSync.USBSync.resources
+C:\Documents and Settings\Orzuelo\Escritorio\USBSync\USBSync\obj\Release\SmartSync.exe
+C:\Documents and Settings\Orzuelo\Escritorio\USBSync\USBSync\obj\Release\SmartSync.xml
+C:\Documents and Settings\Orzuelo\Escritorio\USBSync\USBSync\obj\Release\SmartSync.pdb
+D:\RaC\Proyectos\USBSync\USBSync\USBSync\obj\Release\SmartSync.exe
+D:\RaC\Proyectos\USBSync\USBSync\USBSync\obj\Release\SmartSync.xml
+D:\RaC\Proyectos\USBSync\USBSync\USBSync\obj\Release\SmartSync.pdb
+D:\RaC\Proyectos\USBSync\USBSync\USBSync\bin\Release\SmartSync.exe
+D:\RaC\Proyectos\USBSync\USBSync\USBSync\bin\Release\SmartSync.pdb
+D:\RaC\Proyectos\USBSync\USBSync\USBSync\bin\Release\SmartSync.xml
+D:\RaC\Proyectos\USBSync\USBSync\USBSync\obj\Release\SmartSync.Resources.resources
+D:\RaC\Proyectos\USBSync\USBSync\USBSync\obj\Release\SmartSync.SelectDrive.resources
+D:\RaC\Proyectos\USBSync\USBSync\USBSync\obj\Release\SmartSync.USBSync.resources
+C:\Users\Panda\Desktop\Projects\Personal Projects\usb sync\USBSync\USBSync\obj\Release\SmartSync.exe
+C:\Users\Panda\Desktop\Projects\Personal Projects\usb sync\USBSync\USBSync\obj\Release\SmartSync.xml
+C:\Users\Panda\Desktop\Projects\Personal Projects\usb sync\USBSync\USBSync\obj\Release\SmartSync.pdb
+C:\Users\Panda\Desktop\USBSync\USBSync\obj\Release\SmartSync.exe
+C:\Users\Panda\Desktop\USBSync\USBSync\obj\Release\SmartSync.xml
+C:\Users\Panda\Desktop\USBSync\USBSync\obj\Release\SmartSync.pdb

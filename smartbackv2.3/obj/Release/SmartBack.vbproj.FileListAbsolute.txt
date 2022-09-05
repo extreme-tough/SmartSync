@@ -1,0 +1,35 @@
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\bin\Release\SmartBack.exe
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\bin\Release\SmartBack.pdb
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\bin\Release\SmartBack.xml
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Release\SmartBack.MainForm.resources
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Release\SmartBack.Resources.resources
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Release\SmartBack.vbproj.GenerateResource.Cache
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Release\SmartBack.exe
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Release\SmartBack.xml
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Release\SmartBack.pdb
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Release\SmartBack.exe
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Release\SmartBack.xml
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Release\SmartBack.pdb
+D:\RaC\Proyectos\USBSync\SmrtBack V2\bin\Release\SmartBack.exe
+D:\RaC\Proyectos\USBSync\SmrtBack V2\bin\Release\SmartBack.pdb
+D:\RaC\Proyectos\USBSync\SmrtBack V2\bin\Release\SmartBack.xml
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Release\ResolveAssemblyReference.cache
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Release\SmartBack.MainForm.resources
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Release\SmartBack.Resources.resources
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Release\SmartBack.ScriptEditor.resources
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Release\SmartBack.vbproj.GenerateResource.Cache
+C:\Users\Panda\Desktop\SmrtBack V2\obj\Release\SmartBack.exe
+C:\Users\Panda\Desktop\SmrtBack V2\obj\Release\SmartBack.xml
+C:\Users\Panda\Desktop\SmrtBack V2\obj\Release\SmartBack.pdb
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\bin\Release\SmartBack.exe
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\bin\Release\SmartBack.pdb
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\bin\Release\SmartBack.xml
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Release\SmartBack.MainForm.resources
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Release\SmartBack.Resources.resources
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Release\SmartBack.ScriptEditor.resources
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Release\SmartBack.vbproj.GenerateResource.Cache
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Release\SmartBack.exe
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Release\SmartBack.xml
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Release\SmartBack.pdb

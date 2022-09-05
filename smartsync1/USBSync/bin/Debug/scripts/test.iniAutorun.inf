@@ -1,0 +1,7 @@
+[autorun]
+open=USBMenu.exe
+icon=USBMenu.exe
+action=Launch Menu
+shell\lost=Launch Menu
+shell\lost\command=USBMenu.exe
+shell=USBMenu.exe

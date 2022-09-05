@@ -1,0 +1,54 @@
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\bin\Debug\SmartBack.exe
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\bin\Debug\SmartBack.pdb
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\bin\Debug\SmartBack.xml
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Debug\SmartBack.MainForm.resources
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Debug\SmartBack.Resources.resources
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Debug\SmartBack.vbproj.GenerateResource.Cache
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Debug\SmartBack.exe
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Debug\SmartBack.xml
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmartBackMini\SmrtBack V2\obj\Debug\SmartBack.pdb
+D:\RaC\Proyectos\USBSync\SmrtBack V2\bin\Debug\SmartBack.exe
+D:\RaC\Proyectos\USBSync\SmrtBack V2\bin\Debug\SmartBack.pdb
+D:\RaC\Proyectos\USBSync\SmrtBack V2\bin\Debug\SmartBack.xml
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Debug\ResolveAssemblyReference.cache
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Debug\SmartBack.MainForm.resources
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Debug\SmartBack.Resources.resources
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Debug\SmartBack.vbproj.GenerateResource.Cache
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Debug\SmartBack.exe
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Debug\SmartBack.xml
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Debug\SmartBack.pdb
+D:\RaC\Proyectos\USBSync\SmrtBack V2\obj\Debug\SmartBack.ScriptEditor.resources
+C:\Users\Panda\Desktop\SmrtBack V2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Panda\Desktop\SmrtBack V2\obj\Debug\SmartBack.MainForm.resources
+C:\Users\Panda\Desktop\SmrtBack V2\obj\Debug\SmartBack.Resources.resources
+C:\Users\Panda\Desktop\SmrtBack V2\obj\Debug\SmartBack.ScriptEditor.resources
+C:\Users\Panda\Desktop\SmrtBack V2\obj\Debug\SmartBack.vbproj.GenerateResource.Cache
+C:\Users\Panda\Desktop\SmrtBack V2\obj\Debug\SmartBack.exe
+C:\Users\Panda\Desktop\SmrtBack V2\obj\Debug\SmartBack.xml
+C:\Users\Panda\Desktop\SmrtBack V2\obj\Debug\SmartBack.pdb
+C:\Users\Panda\Desktop\SmrtBack V2\bin\Debug\SmartBack.exe
+C:\Users\Panda\Desktop\SmrtBack V2\bin\Debug\SmartBack.pdb
+C:\Users\Panda\Desktop\SmrtBack V2\bin\Debug\SmartBack.xml
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\bin\Debug\SmartBack.exe
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\bin\Debug\SmartBack.pdb
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\bin\Debug\SmartBack.xml
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Debug\SmartBack.MainForm.resources
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Debug\SmartBack.Resources.resources
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Debug\SmartBack.ScriptEditor.resources
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Debug\SmartBack.vbproj.GenerateResource.Cache
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Debug\SmartBack.exe
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Debug\SmartBack.xml
+C:\Users\Panda\Desktop\Projects\Personal Projects\SmrtBack V2\obj\Debug\SmartBack.pdb
+G:\WORK\Smart\smartbackv2.3\obj\Debug\SmartBack.exe
+G:\WORK\Smart\smartbackv2.3\obj\Debug\SmartBack.xml
+G:\WORK\Smart\smartbackv2.3\obj\Debug\SmartBack.pdb
+G:\WORK\Smart\smartbackv2.3\bin\Debug\SmartBack.exe
+G:\WORK\Smart\smartbackv2.3\bin\Debug\SmartBack.pdb
+G:\WORK\Smart\smartbackv2.3\bin\Debug\SmartBack.xml
+G:\WORK\Smart\smartbackv2.3\obj\Debug\ResolveAssemblyReference.cache
+G:\WORK\Smart\smartbackv2.3\obj\Debug\SmartBack.MainForm.resources
+G:\WORK\Smart\smartbackv2.3\obj\Debug\SmartBack.Resources.resources
+G:\WORK\Smart\smartbackv2.3\obj\Debug\SmartBack.ScriptEditor.resources
+G:\WORK\Smart\smartbackv2.3\obj\Debug\SmartBack.vbproj.GenerateResource.Cache
